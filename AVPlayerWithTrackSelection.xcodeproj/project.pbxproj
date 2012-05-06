@@ -1,0 +1,293 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		72358B5C1557153C00084D3F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 72358B5B1557153C00084D3F /* UIKit.framework */; };
+		72358B5E1557153C00084D3F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 72358B5D1557153C00084D3F /* Foundation.framework */; };
+		72358B601557153C00084D3F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 72358B5F1557153C00084D3F /* CoreGraphics.framework */; };
+		72358B661557153C00084D3F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 72358B641557153C00084D3F /* InfoPlist.strings */; };
+		72358B681557153C00084D3F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 72358B671557153C00084D3F /* main.m */; };
+		72358B6C1557153C00084D3F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 72358B6B1557153C00084D3F /* AppDelegate.m */; };
+		72358B6F1557153C00084D3F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72358B6E1557153C00084D3F /* ViewController.m */; };
+		72358B721557153C00084D3F /* ViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72358B701557153C00084D3F /* ViewController_iPhone.xib */; };
+		72358B751557153C00084D3F /* ViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72358B731557153C00084D3F /* ViewController_iPad.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		72358B571557153C00084D3F /* AVPlayerWithTrackSelection.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AVPlayerWithTrackSelection.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		72358B5B1557153C00084D3F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		72358B5D1557153C00084D3F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		72358B5F1557153C00084D3F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		72358B631557153C00084D3F /* AVPlayerWithTrackSelection-Info.plist */ = {isa = PBXFileReference; path = "AVPlayerWithTrackSelection-Info.plist"; sourceTree = "<group>"; };
+		72358B651557153C00084D3F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		72358B671557153C00084D3F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		72358B691557153C00084D3F /* AVPlayerWithTrackSelection-Prefix.pch */ = {isa = PBXFileReference; path = "AVPlayerWithTrackSelection-Prefix.pch"; sourceTree = "<group>"; };
+		72358B6A1557153C00084D3F /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		72358B6B1557153C00084D3F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		72358B6D1557153C00084D3F /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		72358B6E1557153C00084D3F /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		72358B711557153C00084D3F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPhone.xib; sourceTree = "<group>"; };
+		72358B741557153C00084D3F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPad.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		72358B541557153C00084D3F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				72358B5C1557153C00084D3F /* UIKit.framework in Frameworks */,
+				72358B5E1557153C00084D3F /* Foundation.framework in Frameworks */,
+				72358B601557153C00084D3F /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		72358B4C1557153C00084D3F = {
+			isa = PBXGroup;
+			children = (
+				72358B611557153C00084D3F /* AVPlayerWithTrackSelection */,
+				72358B5A1557153C00084D3F /* Frameworks */,
+				72358B581557153C00084D3F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		72358B581557153C00084D3F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				72358B571557153C00084D3F /* AVPlayerWithTrackSelection.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		72358B5A1557153C00084D3F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				72358B5B1557153C00084D3F /* UIKit.framework */,
+				72358B5D1557153C00084D3F /* Foundation.framework */,
+				72358B5F1557153C00084D3F /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		72358B611557153C00084D3F /* AVPlayerWithTrackSelection */ = {
+			isa = PBXGroup;
+			children = (
+				72358B6A1557153C00084D3F /* AppDelegate.h */,
+				72358B6B1557153C00084D3F /* AppDelegate.m */,
+				72358B6D1557153C00084D3F /* ViewController.h */,
+				72358B6E1557153C00084D3F /* ViewController.m */,
+				72358B701557153C00084D3F /* ViewController_iPhone.xib */,
+				72358B731557153C00084D3F /* ViewController_iPad.xib */,
+				72358B621557153C00084D3F /* Supporting Files */,
+			);
+			path = AVPlayerWithTrackSelection;
+			sourceTree = "<group>";
+		};
+		72358B621557153C00084D3F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				72358B631557153C00084D3F /* AVPlayerWithTrackSelection-Info.plist */,
+				72358B641557153C00084D3F /* InfoPlist.strings */,
+				72358B671557153C00084D3F /* main.m */,
+				72358B691557153C00084D3F /* AVPlayerWithTrackSelection-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		72358B561557153C00084D3F /* AVPlayerWithTrackSelection */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 72358B781557153C00084D3F /* Build configuration list for PBXNativeTarget "AVPlayerWithTrackSelection" */;
+			buildPhases = (
+				72358B531557153C00084D3F /* Sources */,
+				72358B541557153C00084D3F /* Frameworks */,
+				72358B551557153C00084D3F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AVPlayerWithTrackSelection;
+			productName = AVPlayerWithTrackSelection;
+			productReference = 72358B571557153C00084D3F /* AVPlayerWithTrackSelection.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		72358B4E1557153C00084D3F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+			};
+			buildConfigurationList = 72358B511557153C00084D3F /* Build configuration list for PBXProject "AVPlayerWithTrackSelection" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 72358B4C1557153C00084D3F;
+			productRefGroup = 72358B581557153C00084D3F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				72358B561557153C00084D3F /* AVPlayerWithTrackSelection */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		72358B551557153C00084D3F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				72358B661557153C00084D3F /* InfoPlist.strings in Resources */,
+				72358B721557153C00084D3F /* ViewController_iPhone.xib in Resources */,
+				72358B751557153C00084D3F /* ViewController_iPad.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		72358B531557153C00084D3F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				72358B681557153C00084D3F /* main.m in Sources */,
+				72358B6C1557153C00084D3F /* AppDelegate.m in Sources */,
+				72358B6F1557153C00084D3F /* ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		72358B641557153C00084D3F /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				72358B651557153C00084D3F /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		72358B701557153C00084D3F /* ViewController_iPhone.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				72358B711557153C00084D3F /* en */,
+			);
+			name = ViewController_iPhone.xib;
+			sourceTree = "<group>";
+		};
+		72358B731557153C00084D3F /* ViewController_iPad.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				72358B741557153C00084D3F /* en */,
+			);
+			name = ViewController_iPad.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		72358B761557153C00084D3F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		72358B771557153C00084D3F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		72358B791557153C00084D3F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Prefix.pch";
+				INFOPLIST_FILE = "AVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		72358B7A1557153C00084D3F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Prefix.pch";
+				INFOPLIST_FILE = "AVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		72358B511557153C00084D3F /* Build configuration list for PBXProject "AVPlayerWithTrackSelection" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				72358B761557153C00084D3F /* Debug */,
+				72358B771557153C00084D3F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		72358B781557153C00084D3F /* Build configuration list for PBXNativeTarget "AVPlayerWithTrackSelection" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				72358B791557153C00084D3F /* Debug */,
+				72358B7A1557153C00084D3F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 72358B4E1557153C00084D3F /* Project object */;
+}
