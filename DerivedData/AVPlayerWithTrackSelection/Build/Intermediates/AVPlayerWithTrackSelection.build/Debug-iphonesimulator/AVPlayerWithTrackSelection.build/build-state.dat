@@ -1,256 +1,0 @@
-TAVPlayerWithTrackSelection
-v5
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/AVPlayerWithTrackSelection.app/Info.plist AVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Info.plist
-cProcessPCH /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/PrecompiledHeaders/AVPlayerWithTrackSelection-Prefix-dkrfnimxjqxrcdbyopbluzypcvpv/AVPlayerWithTrackSelection-Prefix.pch.pth AVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/main.o /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/AppDelegate.o /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/PlayerView.o /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/PlayerView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/PlayerViewController.o /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/PlayerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/AudioTrackSelectorViewController.o /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/../../../../Desktop/AudioTrackSelectorViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
-c000000004F453DF80000000000000110
-t1329937912
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
-c000000004F9CB0B20000000000182900
-t1335668914
-s1583360
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004F9CB0B30000000000244490
-t1335668915
-s2376848
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
-c000000004F9CB0B50000000000069670
-t1335668917
-s431728
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004F9CB0B70000000000353830
-t1335668919
-s3487792
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004F9CB0BF0000000000905E40
-t1335668927
-s9461312
-
-N/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/../../../../Desktop/AudioTrackSelectorViewController.m
-c000000004FA6EEB70000000000001D36
-t1336340151
-s7478
-
-N/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Prefix.pch
-c000000004FA6E2BC0000000000000187
-t1336337084
-s391
-
-N/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/AppDelegate.m
-c000000004FA6EF6A00000000000009C9
-t1336340330
-s2505
-
-N/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/PlayerView.m
-c000000004FA6DE5D0000000000000350
-t1336335965
-s848
-
-N/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/PlayerViewController.m
-c000000004FA6EF5B0000000000002023
-t1336340315
-s8227
-
-N/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/en.lproj/InfoPlist.strings
-c000000004FA6DDBC000000000000002D
-t1336335804
-s45
-
-N/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/main.m
-c000000004FA6DDBC0000000000000163
-t1336335804
-s355
-
-N/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/AVPlayerWithTrackSelection.LinkFileList
-c000000004FA6F25D00000000000004FD
-t1336341085
-s1277
-
-N/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/AppDelegate.o
-t2
-s0
-
-N/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/AudioTrackSelectorViewController.o
-t2
-s0
-
-N/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/PlayerView.o
-t2
-s0
-
-N/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/PlayerViewController.o
-t2
-s0
-
-N/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/main.o
-t2
-s0
-
-N/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/PrecompiledHeaders/AVPlayerWithTrackSelection-Prefix-dkrfnimxjqxrcdbyopbluzypcvpv/AVPlayerWithTrackSelection-Prefix.pch.pth
-t2
-s0
-
-N/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/AVPlayerWithTrackSelection.app
-t2
-s0
-
-N/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/AVPlayerWithTrackSelection.app.dSYM
-t2
-s0
-
-N/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/AVPlayerWithTrackSelection.app/AVPlayerWithTrackSelection
-t2
-s0
-
-N/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/AVPlayerWithTrackSelection.app/Info.plist
-t2
-s0
-
-N/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/AVPlayerWithTrackSelection.app/PkgInfo
-t2
-s0
-
-N/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/AVPlayerWithTrackSelection.app/en.lproj/InfoPlist.strings
-t2
-s0
-
-NAVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Info.plist
-c000000004FA6DDBC00000000000005B6
-t1336335804
-s1462
-
-CBuild AST from /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/../../../../Desktop/AudioTrackSelectorViewController.m
-r0
-
-CBuild AST from /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/AppDelegate.m
-r0
-
-CBuild AST from /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/PlayerView.m
-r0
-
-CBuild AST from /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/PlayerViewController.m
-r0
-
-CBuild AST from /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/main.m
-r0
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa6090fdd2957b541^39d53add2957b541^---0#1#0#--18"Check dependencies36"7196235D-BE4A-4CEB-8AC4-32C4C4B5F380-
-
-CCompileC DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/AppDelegate.o /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s358033887.373623
-e358033887.489707
-r1
-xCompileC
-xDerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/AppDelegate.o
-x/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/AppDelegate.m35d15fdf2957b541^295e7ddf2957b541^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/AppDelegate.m0000000000000000^4839"CompileC DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/AppDelegate.o AVPlayerWithTrackSelection/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-generated-files.hmap -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-own-target-headers.hmap -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-all-target-headers.hmap -iquote /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-project-headers.hmap -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/include -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/DerivedSources/i386 -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/DerivedSources -F/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator -include /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/PrecompiledHeaders/AVPlayerWithTrackSelection-Prefix-dkrfnimxjqxrcdbyopbluzypcvpv/AVPlayerWithTrackSelection-Prefix.pch -MMD -MT dependencies -MF /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/AppDelegate.dia -c /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/AppDelegate.m -o /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/AppDelegate.o36"0F7B6578-1F7D-433E-A417-C6C8EA499990-
-
-CCompileC DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/AudioTrackSelectorViewController.o /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/../../../../Desktop/AudioTrackSelectorViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s358033887.530663
-e358033887.771620
-r1
-xCompileC
-xDerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/AudioTrackSelectorViewController.o
-x/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/../../../../Desktop/AudioTrackSelectorViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection159"Compile /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/../../../../Desktop/AudioTrackSelectorViewController.ma83a88df2957b541^5989c5df2957b541^---0#0#0#-19%DVTDocumentLocation2@167"file://localhost/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/../../../../Desktop/AudioTrackSelectorViewController.m0000000000000000^5005"CompileC DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/AudioTrackSelectorViewController.o AVPlayerWithTrackSelection/../../../../Desktop/AudioTrackSelectorViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-generated-files.hmap -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-own-target-headers.hmap -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-all-target-headers.hmap -iquote /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-project-headers.hmap -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/include -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/DerivedSources/i386 -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/DerivedSources -F/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator -include /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/PrecompiledHeaders/AVPlayerWithTrackSelection-Prefix-dkrfnimxjqxrcdbyopbluzypcvpv/AVPlayerWithTrackSelection-Prefix.pch -MMD -MT dependencies -MF /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/AudioTrackSelectorViewController.d --serialize-diagnostics /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/AudioTrackSelectorViewController.dia -c /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/../../../../Desktop/AudioTrackSelectorViewController.m -o /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/AudioTrackSelectorViewController.o36"A0FCE73E-415F-4BA7-BA23-176DE918E11D-
-
-CCompileC DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/PlayerView.o /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/PlayerView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s358033887.452043
-e358033887.529310
-r1
-xCompileC
-xDerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/PlayerView.o
-x/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/PlayerView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/PlayerView.m7aff73df2957b541^aa8087df2957b541^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/PlayerView.m0000000000000000^4833"CompileC DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/PlayerView.o AVPlayerWithTrackSelection/PlayerView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-generated-files.hmap -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-own-target-headers.hmap -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-all-target-headers.hmap -iquote /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-project-headers.hmap -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/include -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/DerivedSources/i386 -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/DerivedSources -F/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator -include /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/PrecompiledHeaders/AVPlayerWithTrackSelection-Prefix-dkrfnimxjqxrcdbyopbluzypcvpv/AVPlayerWithTrackSelection-Prefix.pch -MMD -MT dependencies -MF /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/PlayerView.d --serialize-diagnostics /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/PlayerView.dia -c /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/PlayerView.m -o /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/PlayerView.o36"67580898-8AF4-4068-9082-A37118254515-
-
-CCompileC DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/PlayerViewController.o /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/PlayerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s358033887.490971
-e358033887.670392
-r1
-xCompileC
-xDerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/PlayerViewController.o
-x/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/PlayerViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/PlayerViewController.m7bda7ddf2957b541^a0a9abdf2957b541^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/PlayerViewController.m0000000000000000^4893"CompileC DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/PlayerViewController.o AVPlayerWithTrackSelection/PlayerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-generated-files.hmap -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-own-target-headers.hmap -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-all-target-headers.hmap -iquote /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-project-headers.hmap -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/include -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/DerivedSources/i386 -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/DerivedSources -F/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator -include /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/PrecompiledHeaders/AVPlayerWithTrackSelection-Prefix-dkrfnimxjqxrcdbyopbluzypcvpv/AVPlayerWithTrackSelection-Prefix.pch -MMD -MT dependencies -MF /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/PlayerViewController.d --serialize-diagnostics /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/PlayerViewController.dia -c /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/PlayerViewController.m -o /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/PlayerViewController.o36"E8512BD2-A356-45E8-96ED-1D439E7AB439-
-
-CCompileC DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/main.o /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s358033887.373619
-e358033887.450659
-r1
-xCompileC
-xDerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/main.o
-x/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/main.m64ce5fdf2957b541^846273df2957b541^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/main.m0000000000000000^4797"CompileC DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/main.o AVPlayerWithTrackSelection/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-generated-files.hmap -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-own-target-headers.hmap -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-all-target-headers.hmap -iquote /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-project-headers.hmap -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/include -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/DerivedSources/i386 -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/DerivedSources -F/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator -include /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/PrecompiledHeaders/AVPlayerWithTrackSelection-Prefix-dkrfnimxjqxrcdbyopbluzypcvpv/AVPlayerWithTrackSelection-Prefix.pch -MMD -MT dependencies -MF /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/main.dia -c /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/main.m -o /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/Objects-normal/i386/main.o36"6454E12B-D91E-4771-A44C-A79C97793E1A-
-
-CCopyStringsFile /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/AVPlayerWithTrackSelection.app/en.lproj/InfoPlist.strings AVPlayerWithTrackSelection/en.lproj/InfoPlist.strings
-r0
-
-CGenerateDSYMFile /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/AVPlayerWithTrackSelection.app.dSYM /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/AVPlayerWithTrackSelection.app/AVPlayerWithTrackSelection
-r0
-
-CLd /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/AVPlayerWithTrackSelection.app/AVPlayerWithTrackSelection normal i386
-r0
-
-CProcessInfoPlistFile /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/AVPlayerWithTrackSelection.app/Info.plist AVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Info.plist
-s358033885.223907
-e358033885.229145
-r1
-xProcessInfoPlistFile
-x/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/AVPlayerWithTrackSelection.app/Info.plist
-xAVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Info.plist
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Process AVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Info.plist516839dd2957b541^5c393fdd2957b541^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Info.plist0000000000000000^1020"ProcessInfoPlistFile DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/AVPlayerWithTrackSelection.app/Info.plist AVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Info.plist    cd /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Info.plist -genpkginfo /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/AVPlayerWithTrackSelection.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/AVPlayerWithTrackSelection.app/Info.plist36"CA43B9A4-7514-4BFF-9615-ED5A1061AE68-
-
-CProcessPCH /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/PrecompiledHeaders/AVPlayerWithTrackSelection-Prefix-dkrfnimxjqxrcdbyopbluzypcvpv/AVPlayerWithTrackSelection-Prefix.pch.pth AVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s358033885.238236
-e358033887.365920
-r1
-xProcessPCH
-x/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/PrecompiledHeaders/AVPlayerWithTrackSelection-Prefix-dkrfnimxjqxrcdbyopbluzypcvpv/AVPlayerWithTrackSelection-Prefix.pch.pth
-xAVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Precompile AVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Prefix.pch643d3ddd2957b541^f3ab5ddf2957b541^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Prefix.pch0000000000000000^4642"ProcessPCH DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/PrecompiledHeaders/AVPlayerWithTrackSelection-Prefix-dkrfnimxjqxrcdbyopbluzypcvpv/AVPlayerWithTrackSelection-Prefix.pch.pth AVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-generated-files.hmap -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-own-target-headers.hmap -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-all-target-headers.hmap -iquote /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/AVPlayerWithTrackSelection-project-headers.hmap -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/include -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/DerivedSources/i386 -I/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/AVPlayerWithTrackSelection.build/Debug-iphonesimulator/AVPlayerWithTrackSelection.build/DerivedSources -F/Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/PrecompiledHeaders/AVPlayerWithTrackSelection-Prefix-dkrfnimxjqxrcdbyopbluzypcvpv/AVPlayerWithTrackSelection-Prefix.pch.dia -c /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Prefix.pch -o /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/PrecompiledHeaders/AVPlayerWithTrackSelection-Prefix-dkrfnimxjqxrcdbyopbluzypcvpv/AVPlayerWithTrackSelection-Prefix.pch.pth -MMD -MT dependencies -MF /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Intermediates/PrecompiledHeaders/AVPlayerWithTrackSelection-Prefix-dkrfnimxjqxrcdbyopbluzypcvpv/AVPlayerWithTrackSelection-Prefix.pch.d36"17A7DC06-3448-4CFE-BB10-C6067CB29974-
-
-CProcessPCH /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Index/PrecompiledHeaders/AVPlayerWithTrackSelection-Prefix-adadaklaxuecyyeyhqdhqrcfhqwp_ast/AVPlayerWithTrackSelection-Prefix.pch.pth AVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CTouch /Users/brianmichel/Development/objective-c/AVPlayerWithTrackSelection/DerivedData/AVPlayerWithTrackSelection/Build/Products/Debug-iphonesimulator/AVPlayerWithTrackSelection.app
-r0
-
