@@ -37,8 +37,8 @@
 		72358B801557160900084D3F /* PlayerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayerViewController.h; sourceTree = "<group>"; };
 		72358B811557160900084D3F /* PlayerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayerViewController.m; sourceTree = "<group>"; };
 		72358B8315571A2200084D3F /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
-		72358B85155720C100084D3F /* AudioTrackSelectorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AudioTrackSelectorViewController.h; path = ../../../../Desktop/AudioTrackSelectorViewController.h; sourceTree = "<group>"; };
-		72358B86155720C200084D3F /* AudioTrackSelectorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AudioTrackSelectorViewController.m; path = ../../../../Desktop/AudioTrackSelectorViewController.m; sourceTree = "<group>"; };
+		72358B85155720C100084D3F /* AudioTrackSelectorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AudioTrackSelectorViewController.h; sourceTree = "<group>"; };
+		72358B86155720C200084D3F /* AudioTrackSelectorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AudioTrackSelectorViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
