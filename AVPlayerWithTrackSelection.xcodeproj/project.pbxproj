@@ -13,9 +13,11 @@
 		72358B661557153C00084D3F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 72358B641557153C00084D3F /* InfoPlist.strings */; };
 		72358B681557153C00084D3F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 72358B671557153C00084D3F /* main.m */; };
 		72358B6C1557153C00084D3F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 72358B6B1557153C00084D3F /* AppDelegate.m */; };
-		72358B6F1557153C00084D3F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72358B6E1557153C00084D3F /* ViewController.m */; };
-		72358B721557153C00084D3F /* ViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72358B701557153C00084D3F /* ViewController_iPhone.xib */; };
-		72358B751557153C00084D3F /* ViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72358B731557153C00084D3F /* ViewController_iPad.xib */; };
+		72358B7D1557156000084D3F /* PlayerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 72358B7C1557156000084D3F /* PlayerView.m */; };
+		72358B7F1557157B00084D3F /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 72358B7E1557157B00084D3F /* AVFoundation.framework */; };
+		72358B821557160900084D3F /* PlayerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72358B811557160900084D3F /* PlayerViewController.m */; };
+		72358B8415571A2200084D3F /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 72358B8315571A2200084D3F /* CoreMedia.framework */; };
+		72358B87155720C200084D3F /* AudioTrackSelectorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72358B86155720C200084D3F /* AudioTrackSelectorViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,16 +25,20 @@
 		72358B5B1557153C00084D3F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		72358B5D1557153C00084D3F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		72358B5F1557153C00084D3F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		72358B631557153C00084D3F /* AVPlayerWithTrackSelection-Info.plist */ = {isa = PBXFileReference; path = "AVPlayerWithTrackSelection-Info.plist"; sourceTree = "<group>"; };
+		72358B631557153C00084D3F /* AVPlayerWithTrackSelection-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AVPlayerWithTrackSelection-Info.plist"; sourceTree = "<group>"; };
 		72358B651557153C00084D3F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		72358B671557153C00084D3F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		72358B691557153C00084D3F /* AVPlayerWithTrackSelection-Prefix.pch */ = {isa = PBXFileReference; path = "AVPlayerWithTrackSelection-Prefix.pch"; sourceTree = "<group>"; };
-		72358B6A1557153C00084D3F /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		72358B691557153C00084D3F /* AVPlayerWithTrackSelection-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AVPlayerWithTrackSelection-Prefix.pch"; sourceTree = "<group>"; };
+		72358B6A1557153C00084D3F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		72358B6B1557153C00084D3F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		72358B6D1557153C00084D3F /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
-		72358B6E1557153C00084D3F /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		72358B711557153C00084D3F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPhone.xib; sourceTree = "<group>"; };
-		72358B741557153C00084D3F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPad.xib; sourceTree = "<group>"; };
+		72358B7B1557156000084D3F /* PlayerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayerView.h; sourceTree = "<group>"; };
+		72358B7C1557156000084D3F /* PlayerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayerView.m; sourceTree = "<group>"; };
+		72358B7E1557157B00084D3F /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		72358B801557160900084D3F /* PlayerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayerViewController.h; sourceTree = "<group>"; };
+		72358B811557160900084D3F /* PlayerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayerViewController.m; sourceTree = "<group>"; };
+		72358B8315571A2200084D3F /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
+		72358B85155720C100084D3F /* AudioTrackSelectorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AudioTrackSelectorViewController.h; path = ../../../../Desktop/AudioTrackSelectorViewController.h; sourceTree = "<group>"; };
+		72358B86155720C200084D3F /* AudioTrackSelectorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AudioTrackSelectorViewController.m; path = ../../../../Desktop/AudioTrackSelectorViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +46,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72358B8415571A2200084D3F /* CoreMedia.framework in Frameworks */,
+				72358B7F1557157B00084D3F /* AVFoundation.framework in Frameworks */,
 				72358B5C1557153C00084D3F /* UIKit.framework in Frameworks */,
 				72358B5E1557153C00084D3F /* Foundation.framework in Frameworks */,
 				72358B601557153C00084D3F /* CoreGraphics.framework in Frameworks */,
@@ -69,6 +77,8 @@
 		72358B5A1557153C00084D3F /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				72358B8315571A2200084D3F /* CoreMedia.framework */,
+				72358B7E1557157B00084D3F /* AVFoundation.framework */,
 				72358B5B1557153C00084D3F /* UIKit.framework */,
 				72358B5D1557153C00084D3F /* Foundation.framework */,
 				72358B5F1557153C00084D3F /* CoreGraphics.framework */,
@@ -79,12 +89,14 @@
 		72358B611557153C00084D3F /* AVPlayerWithTrackSelection */ = {
 			isa = PBXGroup;
 			children = (
+				72358B85155720C100084D3F /* AudioTrackSelectorViewController.h */,
+				72358B86155720C200084D3F /* AudioTrackSelectorViewController.m */,
 				72358B6A1557153C00084D3F /* AppDelegate.h */,
 				72358B6B1557153C00084D3F /* AppDelegate.m */,
-				72358B6D1557153C00084D3F /* ViewController.h */,
-				72358B6E1557153C00084D3F /* ViewController.m */,
-				72358B701557153C00084D3F /* ViewController_iPhone.xib */,
-				72358B731557153C00084D3F /* ViewController_iPad.xib */,
+				72358B7B1557156000084D3F /* PlayerView.h */,
+				72358B7C1557156000084D3F /* PlayerView.m */,
+				72358B801557160900084D3F /* PlayerViewController.h */,
+				72358B811557160900084D3F /* PlayerViewController.m */,
 				72358B621557153C00084D3F /* Supporting Files */,
 			);
 			path = AVPlayerWithTrackSelection;
@@ -152,8 +164,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				72358B661557153C00084D3F /* InfoPlist.strings in Resources */,
-				72358B721557153C00084D3F /* ViewController_iPhone.xib in Resources */,
-				72358B751557153C00084D3F /* ViewController_iPad.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -166,7 +176,9 @@
 			files = (
 				72358B681557153C00084D3F /* main.m in Sources */,
 				72358B6C1557153C00084D3F /* AppDelegate.m in Sources */,
-				72358B6F1557153C00084D3F /* ViewController.m in Sources */,
+				72358B7D1557156000084D3F /* PlayerView.m in Sources */,
+				72358B821557160900084D3F /* PlayerViewController.m in Sources */,
+				72358B87155720C200084D3F /* AudioTrackSelectorViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -179,22 +191,6 @@
 				72358B651557153C00084D3F /* en */,
 			);
 			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-		72358B701557153C00084D3F /* ViewController_iPhone.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				72358B711557153C00084D3F /* en */,
-			);
-			name = ViewController_iPhone.xib;
-			sourceTree = "<group>";
-		};
-		72358B731557153C00084D3F /* ViewController_iPad.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				72358B741557153C00084D3F /* en */,
-			);
-			name = ViewController_iPad.xib;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -251,6 +247,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Prefix.pch";
 				INFOPLIST_FILE = "AVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -262,6 +259,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Prefix.pch";
 				INFOPLIST_FILE = "AVPlayerWithTrackSelection/AVPlayerWithTrackSelection-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
